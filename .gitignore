@@ -230,3 +230,23 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Reverbia specific
+chroma_db/
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Next.js
+.next/
+out/
+
+# ChromaDB
+chroma_db/
+
+# Audio files (for development)
+*.wav
+*.mp3
+*.webm
+*.m4a

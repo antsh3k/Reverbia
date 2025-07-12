@@ -31,6 +31,12 @@
   - Node.js & npm scripts (`npm run dev`, `npm run build`)  
   - FFmpeg (audio processing)  
 
+- **Logging**
+  - whenever you run into an error, summarize the erorr along with the solution if found.
+- **Task Logging**
+  - After a task is complete, mark the task as complete in Tasks.md as [[x]](./Tasks.md)
+- **User input**
+  - at points where I need to do some work not in the development environment, stop and ask me to input any details or do any setting up work so that you can continue to develop.
 ---
 
 ## 3. Prompt Engineering Guidelines

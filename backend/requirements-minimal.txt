@@ -1,0 +1,21 @@
+# Minimal FastAPI Requirements (Python 3.13 compatible)
+fastapi
+uvicorn
+python-dotenv
+pydantic[email]
+
+# Authentication
+PyJWT
+passlib[bcrypt]
+python-multipart
+
+# Database (basic)
+supabase
+
+# File operations
+aiofiles
+
+# Testing
+pytest
+pytest-asyncio
+httpx
